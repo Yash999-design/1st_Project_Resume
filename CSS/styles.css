@@ -1,0 +1,20 @@
+body {
+    background-color:cornsilk;
+}
+
+hr {
+    background-color: cornsilk;
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-color: deepskyblue;
+    border-width: 5px;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #d64161;
+}
